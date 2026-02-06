@@ -16,7 +16,7 @@
 
 - 🔭 I'm currently working on **Backend**
 
-- 🌱 I've won  **2 Global hackathons**
+- ✌️ I've won  **2 Global hackathons(Zkverify for Builders Hackathon)|(SwellCity Buildathon)**
 
 - 💬 Ask me about **Maybe Building new cool projects**
 
