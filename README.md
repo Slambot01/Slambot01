@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Maybe Building new cool projects**
 
-- 📫 How to reach me **riteshpandit1708@gmail.com**
+- 📫 How to reach me **ritesh1work@gmail.com**
 
 - ⚡ Fun fact **I like to sleep**
 
