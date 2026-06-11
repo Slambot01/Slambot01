@@ -84,7 +84,7 @@ NFT-based insurance with automated on-chain claim validation and payouts.
 <tr>
 <td width="50%" valign="top">
 
-### 💰 Finance Dashboard API
+### 💰ImmutableCore
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Slambot01/Finance_Project)
 
 Production-ready RESTful API for financial records management with RBAC & analytics.
